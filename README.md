@@ -23,7 +23,7 @@ A collection of three beginner-friendly Python projects designed to teach core p
 
 **Run:**
 ```bash
-python todo_list.py
+python project1.py
 ```
 
 ---
@@ -47,7 +47,7 @@ python todo_list.py
 
 **Run:**
 ```bash
-python expense_tracker.py
+python project2.py
 ```
 
 ---
@@ -69,7 +69,7 @@ python expense_tracker.py
 
 **Run:**
 ```bash
-python password_generator.py
+python project3.py
 ```
 
 ---
