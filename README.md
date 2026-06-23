@@ -1,4 +1,4 @@
-# Decodelab_internship
+# decodelabs _tasks
 # Python Project - DecodeLabs Industrial Training Kit
 
 A collection of three beginner-friendly Python projects designed to teach core programming concepts and real-world application development.
